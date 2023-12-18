@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Freelancer**
 
-- 🌱 I’m currently learning **Advanced Flutter**
+- 🌱 I’m currently learning **Advanced JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmedAbdelmotilab?tab=repositories](https://github.com/AhmedAbdelmotilab?tab=repositories)
 
-- 💬 Ask me about **Flutter,Dart**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **AhmedAbdelhakimAbdelmotilab@gmail.com**
 
