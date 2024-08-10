@@ -1,107 +1,168 @@
-# 💻 Ahmed Abdelmotilab
+<!DOCTYPE html>
+<html lang="en">
 
-**Full Stack Developer | Angular | ASP.NET | C#**
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ahmed Abdelmotilab - Full Stack Developer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
 
-[![LinkedIn Badge](https://img.shields.io/badge/-AhmedAbdelmotilab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ahmed-abdelmotilab)](https://linkedin.com/in/ahmed-abdelmotilab)
-[![GitHub Badge](https://img.shields.io/badge/-AhmedAbdelmotilab-333?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AhmedAbdelmotilab)](https://github.com/AhmedAbdelmotilab)
-[![Email Badge](https://img.shields.io/badge/-A.Abdelmotilab@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:A.Abdelmotilab@gmail.com)](mailto:A.Abdelmotilab@gmail.com)
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
 
----
+        h1 {
+            text-align: center;
+            color: #4CAF50;
+        }
 
-## 📝 About Me
+        h2 {
+            color: #4CAF50;
+            border-bottom: 2px solid #4CAF50;
+            padding-bottom: 5px;
+        }
 
-I am a dynamic and highly skilled Full Stack Developer with a strong foundation in both front-end and back-end development. My expertise lies in Angular and ASP.NET, and I have extensive experience in building robust, scalable web applications. I am passionate about solving complex problems, optimizing development processes, and driving project success through collaboration and modern technology.
+        .profile-info {
+            text-align: center;
+        }
 
----
+        .profile-info a {
+            text-decoration: none;
+            color: #4CAF50;
+            margin: 0 10px;
+        }
 
-## 🎓 Education
+        .profile-info a:hover {
+            text-decoration: underline;
+        }
 
-- **Route Academy**  
-  *Full Stack Web Development Diploma*  
-  **August 2024 – Present**
+        .skills, .projects, .education, .experience {
+            margin-bottom: 30px;
+        }
 
-- **Pharos University**  
-  *Bachelor of Engineering, Computer Engineering Department*  
-  **September 2018 – September 2023**
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
 
-- **Abbasiya Secondary Military School**  
-  *General Secondary Education*  
-  **September 2016 – August 2018**
+        ul li {
+            background: #f4f4f4;
+            margin: 10px 0;
+            padding: 10px;
+            border-left: 4px solid #4CAF50;
+        }
 
----
+        ul li:hover {
+            background: #eaeaea;
+        }
 
-## 🛠️ Skills
+        footer {
+            text-align: center;
+            margin-top: 50px;
+            color: #777;
+        }
+    </style>
+</head>
 
-### Programming & Web Development
+<body>
+    <div class="container">
+        <h1>Ahmed Abdelmotilab</h1>
+        <p class="profile-info">
+            Full Stack Developer | Angular | ASP.NET | C#<br>
+            <a href="mailto:A.Abdelmotilab@gmail.com">A.Abdelmotilab@gmail.com</a> | 
+            <a href="https://linkedin.com/in/ahmed-abdelmotilab" target="_blank">LinkedIn</a> | 
+            <a href="https://github.com/AhmedAbdelmotilab" target="_blank">GitHub</a>
+        </p>
 
-- **Languages:** HTML, CSS, JavaScript, C#, AngularJS
-- **Frameworks & Tools:** ASP.NET, Bootstrap, Entity Framework, Laravel
-- **Databases:** Microsoft SQL Server
-- **Principles:** Design Patterns, Object-Oriented Programming (OOP)
-- **Others:** Problem-solving, Algorithms
+        <div class="about">
+            <h2>About Me</h2>
+            <p>
+                I am a dynamic and highly skilled Full Stack Developer with a strong foundation in both front-end and back-end
+                development. My expertise lies in Angular and ASP.NET, and I have extensive experience in building robust,
+                scalable web applications. I am passionate about solving complex problems, optimizing development processes,
+                and driving project success through collaboration and modern technology.
+            </p>
+        </div>
 
-### Soft Skills
+        <div class="education">
+            <h2>Education</h2>
+            <ul>
+                <li><strong>Route Academy</strong><br>
+                    Full Stack Web Development Diploma<br>
+                    <em>August 2024 – Present</em>
+                </li>
+                <li><strong>Pharos University</strong><br>
+                    Bachelor of Engineering, Computer Engineering Department<br>
+                    <em>September 2018 – September 2023</em>
+                </li>
+                <li><strong>Abbasiya Secondary Military School</strong><br>
+                    General Secondary Education<br>
+                    <em>September 2016 – August 2018</em>
+                </li>
+            </ul>
+        </div>
 
-- **Time Management**
-- **Communication**
-- **Teamwork**
-- **Creativity**
+        <div class="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li><strong>Programming & Web Development:</strong> HTML, CSS, JavaScript, C#, AngularJS</li>
+                <li><strong>Frameworks & Tools:</strong> ASP.NET, Bootstrap, Entity Framework, Laravel</li>
+                <li><strong>Databases:</strong> Microsoft SQL Server</li>
+                <li><strong>Principles:</strong> Design Patterns, Object-Oriented Programming (OOP)</li>
+                <li><strong>Soft Skills:</strong> Time Management, Communication, Teamwork, Creativity</li>
+            </ul>
+        </div>
 
----
+        <div class="experience">
+            <h2>Professional Experience</h2>
+            <ul>
+                <li><strong>Laravel Software Developer | RMZ Tech</strong><br>
+                    <em>August 2022 – September 2022</em><br>
+                    Developed a feature-rich e-commerce website for selling kids' toys using Laravel's Eloquent ORM.<br>
+                    Designed and managed databases, enhancing data handling with Laravel's migration and seeding tools.<br>
+                    Utilized Artisan commands to streamline development and improve efficiency.
+                </li>
+            </ul>
+        </div>
 
-## 💼 Professional Experience
+        <div class="projects">
+            <h2>Projects</h2>
+            <ul>
+                <li><strong><a href="https://github.com/AhmedAbdelmotilab/Skin-Detection-Application" target="_blank">Mobile Application for Skin Diseases Detection</a></strong><br>
+                    Developed a mobile application utilizing deep learning algorithms to identify potential skin diseases from images.<br>
+                    Achieved an accuracy rate of 85% in disease identification.
+                </li>
+                <li><strong><a href="https://github.com/AhmedAbdelmotilab/Specific-Sorting-Algorithm-" target="_blank">Specific Sorting Algorithm</a></strong><br>
+                    Created a C++ program featuring multiple user-selectable sorting algorithms, including Merge Sort, Heap Sort, and Quick Sort.
+                </li>
+                <li><strong><a href="https://github.com/AhmedAbdelmotilab/Brain-Tumour-Image-Detection-" target="_blank">Brain Tumor Detection</a></strong><br>
+                    Developed a brain tumor segmentation tool using convolutional neural networks, aiding in accurate diagnosis and treatment.
+                </li>
+                <li><strong><a href="https://github.com/AhmedAbdelmotilab/Goalkeeper-Training-JAVA-GUI" target="_blank">Goalkeeper Training</a></strong><br>
+                    Simulated a football goalkeeper training scenario with multiple players using a concurrent Java program.
+                </li>
+                <li><strong><a href="https://github.com/AhmedAbdelmotilab/Smart-University-System" target="_blank">Smart University System</a></strong><br>
+                    Designed a comprehensive system to manage accounts, enrollments, and grading for students, professors, and administrators.
+                </li>
+            </ul>
+        </div>
 
-### Laravel Software Developer | RMZ Tech
-**August 2022 – September 2022**
+        <footer>
+            <p>&copy; 2024 Ahmed Abdelmotilab</p>
+        </footer>
+    </div>
+</body>
 
-- Developed a feature-rich e-commerce website for selling kids' toys using Laravel's Eloquent ORM.
-- Designed and managed databases, enhancing data handling with Laravel's migration and seeding tools.
-- Utilized Artisan commands to streamline development and improve efficiency.
-
----
-
-## 🚀 Projects
-
-### [Mobile Application for Skin Diseases Detection](https://github.com/AhmedAbdelmotilab/Skin-Detection-Application)
-*July 2023*
-
-- Developed a mobile application utilizing deep learning algorithms to identify potential skin diseases from images.
-- Achieved an accuracy rate of 85% in disease identification.
-- Enabled healthcare professionals to access and update the backend using Firebase.
-
-### [Specific Sorting Algorithm](https://github.com/AhmedAbdelmotilab/Specific-Sorting-Algorithm-)
-*May 2023*
-
-- Created a C++ program featuring multiple user-selectable sorting algorithms, including Merge Sort, Heap Sort, and Quick Sort.
-
-### [Brain Tumor Detection](https://github.com/AhmedAbdelmotilab/Brain-Tumour-Image-Detection-)
-*May 2022*
-
-- Developed a brain tumor segmentation tool using convolutional neural networks, aiding in accurate diagnosis and treatment.
-
-### [Goalkeeper Training](https://github.com/AhmedAbdelmotilab/Goalkeeper-Training-JAVA-GUI)
-*April 2022*
-
-- Simulated a football goalkeeper training scenario with multiple players using a concurrent Java program.
-
-### [Smart University System](https://github.com/AhmedAbdelmotilab/Smart-University-System)
-*December 2021*
-
-- Designed a comprehensive system to manage accounts, enrollments, and grading for students, professors, and administrators.
-
----
-
-## 🌐 Languages
-
-- **Arabic:** Native
-- **English:** Conversational
-
----
-
-## 📫 Let's Connect!
-
-Feel free to reach out to me via [email](mailto:A.Abdelmotilab@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/ahmed-abdelmotilab). I'm always open to discussing new opportunities, collaborations, or just geeking out over the latest tech!
-
----
-
-**Ahmed Abdelmotilab © 2024**
+</html>
