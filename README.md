@@ -1,28 +1,107 @@
-<h1 align="center">Hi 👋, I'm AhmedAbdelmotilab</h1>
-<h3 align="center">Software programmer 👨‍💻</h3>
+# 💻 Ahmed Abdelmotilab
 
-<p align="left"> <a href="https://twitter.com/aelkhawisk" target="blank"><img src="https://img.shields.io/twitter/follow/aelkhawisk?logo=twitter&style=for-the-badge" alt="aelkhawisk" /></a> </p>
+**Full Stack Developer | Angular | ASP.NET | C#**
 
-- 🔭 I’m currently working on **Freelancer**
+[![LinkedIn Badge](https://img.shields.io/badge/-AhmedAbdelmotilab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ahmed-abdelmotilab)](https://linkedin.com/in/ahmed-abdelmotilab)
+[![GitHub Badge](https://img.shields.io/badge/-AhmedAbdelmotilab-333?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AhmedAbdelmotilab)](https://github.com/AhmedAbdelmotilab)
+[![Email Badge](https://img.shields.io/badge/-A.Abdelmotilab@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:A.Abdelmotilab@gmail.com)](mailto:A.Abdelmotilab@gmail.com)
 
-- 🌱 I’m currently learning **Advanced JavaScript**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/AhmedAbdelmotilab?tab=repositories](https://github.com/AhmedAbdelmotilab?tab=repositories)
+## 📝 About Me
 
-- 💬 Ask me about **Web development**
+I am a dynamic and highly skilled Full Stack Developer with a strong foundation in both front-end and back-end development. My expertise lies in Angular and ASP.NET, and I have extensive experience in building robust, scalable web applications. I am passionate about solving complex problems, optimizing development processes, and driving project success through collaboration and modern technology.
 
-- 📫 How to reach me **AhmedAbdelhakimAbdelmotilab@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/elkhawisky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="elkhawisky" height="30" width="40" /></a>
-<a href="https://twitter.com/aelkhawisk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aelkhawisk" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed h. elkhawisky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed h. elkhawisky" height="30" width="40" /></a>
-</p>
+## 🎓 Education
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **Route Academy**  
+  *Full Stack Web Development Diploma*  
+  **August 2024 – Present**
 
+- **Pharos University**  
+  *Bachelor of Engineering, Computer Engineering Department*  
+  **September 2018 – September 2023**
 
+- **Abbasiya Secondary Military School**  
+  *General Secondary Education*  
+  **September 2016 – August 2018**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdelmotilab&" alt="ahmedabdelmotilab" /></p>
+---
+
+## 🛠️ Skills
+
+### Programming & Web Development
+
+- **Languages:** HTML, CSS, JavaScript, C#, AngularJS
+- **Frameworks & Tools:** ASP.NET, Bootstrap, Entity Framework, Laravel
+- **Databases:** Microsoft SQL Server
+- **Principles:** Design Patterns, Object-Oriented Programming (OOP)
+- **Others:** Problem-solving, Algorithms
+
+### Soft Skills
+
+- **Time Management**
+- **Communication**
+- **Teamwork**
+- **Creativity**
+
+---
+
+## 💼 Professional Experience
+
+### Laravel Software Developer | RMZ Tech
+**August 2022 – September 2022**
+
+- Developed a feature-rich e-commerce website for selling kids' toys using Laravel's Eloquent ORM.
+- Designed and managed databases, enhancing data handling with Laravel's migration and seeding tools.
+- Utilized Artisan commands to streamline development and improve efficiency.
+
+---
+
+## 🚀 Projects
+
+### [Mobile Application for Skin Diseases Detection](https://github.com/AhmedAbdelmotilab/Skin-Detection-Application)
+*July 2023*
+
+- Developed a mobile application utilizing deep learning algorithms to identify potential skin diseases from images.
+- Achieved an accuracy rate of 85% in disease identification.
+- Enabled healthcare professionals to access and update the backend using Firebase.
+
+### [Specific Sorting Algorithm](https://github.com/AhmedAbdelmotilab/Specific-Sorting-Algorithm-)
+*May 2023*
+
+- Created a C++ program featuring multiple user-selectable sorting algorithms, including Merge Sort, Heap Sort, and Quick Sort.
+
+### [Brain Tumor Detection](https://github.com/AhmedAbdelmotilab/Brain-Tumour-Image-Detection-)
+*May 2022*
+
+- Developed a brain tumor segmentation tool using convolutional neural networks, aiding in accurate diagnosis and treatment.
+
+### [Goalkeeper Training](https://github.com/AhmedAbdelmotilab/Goalkeeper-Training-JAVA-GUI)
+*April 2022*
+
+- Simulated a football goalkeeper training scenario with multiple players using a concurrent Java program.
+
+### [Smart University System](https://github.com/AhmedAbdelmotilab/Smart-University-System)
+*December 2021*
+
+- Designed a comprehensive system to manage accounts, enrollments, and grading for students, professors, and administrators.
+
+---
+
+## 🌐 Languages
+
+- **Arabic:** Native
+- **English:** Conversational
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to reach out to me via [email](mailto:A.Abdelmotilab@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/ahmed-abdelmotilab). I'm always open to discussing new opportunities, collaborations, or just geeking out over the latest tech!
+
+---
+
+**Ahmed Abdelmotilab © 2024**
